@@ -1,2 +1,2 @@
-# webtech-project
-game review website
+# Webtech-Project
+Game Review Website
